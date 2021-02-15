@@ -1,6 +1,6 @@
 # puzzles
 Misc scripts from coding challenges   
    
-The Lift:  Simulates an elevator service;  based on a CodeWars kata.   
+The Lift:  Simulates an elevator service.  (puzzle from CodeWars)   
    
-Poker Hands:  Compares two poker hands using Texas Hold 'em rules.
+Poker Hands:  Compares two poker hands using Texas Hold 'em rules.  (puzzle from CodeWars)
