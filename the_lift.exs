@@ -1,3 +1,16 @@
+# Simulates an elevator/lift
+#
+# First input parameter is a list of lists of integers:  Each list is a floor in the building, and each
+# integer is a person waiting for the lift. A person's current location is shown by which list they are in.
+# A person's destination is shown by which integer is used.
+#
+# Second input parameter is the maximum capacity for the lift.
+#
+# Expected output is a list of all the stops made by the lift, in order.
+# A stop is defined as whenever the lift reaches a floor with passengers who are heading in the
+# same direction, regardless of whether there is actually room for them to get on.
+
+
 defmodule Kata do
   def the_lift(queues, capacity) do
     queues
